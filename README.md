@@ -1,4 +1,4 @@
-#🌟 Static Website Deployment on AWS 🌟
+# 🌟 Static Website Deployment on AWS 🌟
 
 ## Overview of the Project
 The project aims to establish a robust and efficient static website hosting solution using Amazon Web Services (AWS). By leveraging key services such as Amazon S3 for scalable storage, CloudFront for global content delivery, and Route 53 for domain management, this project addresses the need for a reliable and performant web presence.
